@@ -1,1 +1,1 @@
-# data_architectures![Uploading data_architectures.png…]()
+# data_architectures
